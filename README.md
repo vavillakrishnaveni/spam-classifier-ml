@@ -24,7 +24,7 @@ This project is a Machine Learning-based Spam Classifier that predicts whether a
 ## 📸 Screenshots
 ### Output
 
-![Output](screenshot/output.png)
+![Output](output.png)
 
 
 ```bash
